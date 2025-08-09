@@ -1,0 +1,42 @@
+[
+    {
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes": [
+            "A) São Paulo",
+            "B) Rio de Janeiro",
+            "C) Brasília",
+            "D) Belo Horizonte"
+        ],
+        "resposta_correta": "C) Brasília"
+    },
+    {
+        "pergunta": "Qual biblioteca Python é comumente usada para desenvolvimento web de backend?",
+        "opcoes": [
+            "A) NumPy",
+            "B) Django",
+            "C) Pandas",
+            "D) Matplotlib"
+        ],
+        "resposta_correta": "B) Django"
+    },
+    {
+        "pergunta": "O que o comando 'git clone' faz?",
+        "opcoes": [
+            "A) Cria um novo commit",
+            "B) Envia as alterações para o repositório remoto",
+            "C) Cria uma cópia local de um repositório remoto",
+            "D) Lista todas as branches"
+        ],
+        "resposta_correta": "C) Cria uma cópia local de um repositório remoto"
+    },
+    {
+        "pergunta": "Qual o resultado de 8 * (2 + 2)?",
+        "opcoes": [
+            "A) 18",
+            "B) 32",
+            "C) 24",
+            "D) 40"
+        ],
+        "resposta_correta": "B) 32"
+    }
+]
